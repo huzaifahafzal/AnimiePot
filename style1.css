@@ -1,0 +1,46 @@
+
+body{
+    background-color: rgb(149, 231, 231);
+}
+
+.table{
+    width: 800px;
+    height: 800px;
+    border: solid brown;
+}
+h1{
+text-align: center;
+}
+
+td{
+    border: solid blue;
+}
+th{
+    font-size: x-large;
+    border: solid rgb(20, 238, 20);
+    background-color: rgb(224, 137, 181);
+}
+tr{
+    color: rgb(44, 25, 216);
+    text-align: center;
+    font-size: larger;
+}
+
+.row1{
+    background-color: lightslategray;
+    color: lightcoral;
+}
+.row2{
+    background-color: lightslategray;
+    color: lightcoral;
+
+}
+.row3{
+    background-color: lightslategray;
+    color: lightcoral;
+}
+a{
+    text-decoration: none;
+    font-size: larger;
+    border: solid black;
+}
