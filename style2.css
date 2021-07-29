@@ -1,0 +1,17 @@
+.Title{
+    font-size: xx-large;
+    text-align: center;
+    background-color: darkturquoise;
+    
+}
+.Title1{
+    font-family: 'pacifico';
+    text-align: center;
+    
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    padding-top: 10cm;
+}
