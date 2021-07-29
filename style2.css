@@ -1,17 +1,127 @@
-.Title{
-    font-size: xx-large;
-    text-align: center;
-    background-color: darkturquoise;
+.title{
     
-}
-.Title1{
-    font-family: 'pacifico';
     text-align: center;
+    font-family: 'pacifico';
+    font-size: 100px;
+    background-color: aqua;
+   
+    
     
 }
 
+body{
+    background-color: aquamarine;
+}
+
+nav{
+    text-align: center;
+    font-size: x-large;
+
+}
+.a{
+    color: rgb(31, 6, 122);
+    padding: 20px;
+    background-color: rgb(223, 164, 164);
+}
+
+.welcome{
+    text-align: center;
+    padding-top: 20px;
+    font-size: x-large;
+    font-family: 'pacifico';
+}
+
+span:nth-child(1){
+    color: chartreuse;
+}
+span:nth-child(2){
+    color: rgb(212, 75, 12);
+}
+span:nth-child(3){
+    color: rgb(59, 22, 192);
+}
+span:nth-child(4){
+    color: rgb(7, 202, 216);
+}
+span:nth-child(5){
+    color: rgb(221, 21, 171);
+}
+span:nth-child(6){
+    color: rgb(219, 233, 27);
+}
+span:nth-child(7){
+    color: rgb(30, 223, 236);
+}
 .logo{
-    width: 100px;
-    height: 100px;
-    padding-top: 10cm;
+    
+    text-align: center;
+    
+    
+}
+.search{
+    text-align: right;
+    background-color: brown;
+}
+div{
+    border: black solid;
+}
+.narutopic{
+    width: 26.8%;
+    height: 70%;
+}
+.narutovid{
+    width: 70%;
+    height: 70%;
+}
+.onepiecepic{
+    width: 500px;
+    height: 738px;
+}
+.onepiecevid{
+    width: 70%;
+    height: 70%;
+}
+
+.deathnotevid{
+    width: 70%;
+    height: 70%;
+}
+.deathnotepic{
+    width: 500px;
+    height: 738px;
+}
+.demonslayerpic{
+    width: 500px;
+    height: 738px;
+}
+.demonslayervid{
+    width: 70%;
+    height: 70%;
+}
+.DBZpic{
+    width: 500px;
+    height: 738px;
+}
+.DBZvid{
+    width: 70%;
+    height: 70%;
+}
+.bleachpic{
+    width: 500px;
+    height: 738px;
+}
+.bleachvid{
+    width: 70%;
+    height: 70%;
+}
+.footer{
+    text-align: center;
+    border: solid green;
+    background-color: rgb(218, 107, 177);
+}
+.b{
+    padding: 20px;
+    color: rgb(1, 1, 15);
+    text-decoration: none;
+    
 }
