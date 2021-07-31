@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style-ContactForm.css">
+</head>
+<body>
+<form action="get">
+    <header>CONTACT FORM</header>
+    <h2 class="note"><b class="secheading"> NOTE: All Fields Are Required</b></h2>
+    <h3 class="input-name"><b class="name"> NAME</b><span class="whitespace"></span><input required class="nameinput" type="text" name="name" placeholder="BA RA DAR "></h3>
+    <fieldset>
+        <legend><b> GENDER</b></legend>
+        <p class="gender">Male <input required type="radio" name="GENDER"> Female <input required type="radio" name="GENDER"></p>  
+    </fieldset><br>
+    <h3 class="age"><b class="ageheading" > AGE</b><span class="whitespace1"></span> <input required class="ageinput" type="number" name="age"></h3><br> 
+    <fieldset><legend><b> ADDRESS</b></legend><h3 class="address"><textarea placeholder="You can just give your country if not full address" required name="address" id="address" cols="50" rows="3"></textarea></h3></fieldset>
+    <h3 class="emailheading"><b class="email">EMAIL</b><span class="whitespace2"></span><input placeholder="example: abc@gmail.com" required name="email" type="email"></h3>
+    <fieldset><legend><b>QUESTION</b></legend>
+     <h3 class="question"><Textarea placeholder="Please be precise and simple" required name="Question" id="Question" cols="50" rows="2"></Textarea></h3></fieldset>
+     <p class="button"><input  class="button1" type="submit" value="DONE"></p><hr>
+</form>
+<p class="logo"><img width="250px" height="250px" src="./logo.jfif" alt=""></p>
+    
+</body>
+</html>

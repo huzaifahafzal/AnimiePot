@@ -1,0 +1,93 @@
+body{
+    background-color: wheat;
+    border: 2px solid black;
+}
+header{
+    font-size: xx-large;
+    text-align: center;
+    color: crimson;
+    background-color: darkblue;
+}
+
+h2 b.secheading{
+    border: 1px solid rgba(0, 0, 0, 0.274);
+
+}
+h3 b.name{
+    border: 1px solid rgba(0, 0, 0, 0.274);
+    border-radius: 6px;   
+        
+}
+h3.input-name{
+    text-align: center;
+    padding-top: 20px;
+}
+h2.note{
+    text-align: center;
+}
+
+span.whitespace{
+    padding: 5px;
+    
+}
+span.whitespace1{
+    padding: 4px;
+}
+
+p.gender{
+    text-align: center;
+
+}
+h3.age{
+    text-align: center;
+}
+h3 b.ageheading{
+    border: 1px solid rgba(0, 0, 0, 0.274);
+    border-radius: 6px;
+    
+}
+legend{
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.274);
+    
+}
+h3 input.ageinput{
+    max-width: 50px;
+    max-height: 50px;   
+
+}
+h3.address{
+    text-align: center;
+    
+}
+textarea{
+    font-size: x-large;
+}
+h3.emailheading{
+    text-align: center;
+}
+span.whitespace2{
+    padding: 4px;
+}
+h3 b.email{
+    border: 1px solid rgba(0, 0, 0, 0.274);
+    border-radius: 6px;
+
+}
+h3.question{
+    text-align: center;
+}
+p.button{
+    
+    text-align: center;
+   
+}
+p input.button1{
+    color: blueviolet;
+    padding-left: 50px;
+    padding-right: 50px;
+    cursor: pointer;
+}
+p.logo{
+    text-align: center;
+}
